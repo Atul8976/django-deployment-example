@@ -27,7 +27,7 @@ SECRET_KEY = '(zze#+n&7aceefc47-4u$8r@&d$f@5^g3f49a-jp^%@sw26n_c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sateb.pythonanywhere.com']
 
 
 # Application definition
